@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    font-family: 'popins', sans-serif;
+    background-color: #FBFBEC;
+}
+
+
+.cabecalio {
+    background-color: #5D6532;
+    padding: 5pt;
+    text-align: center;
+}
+header h1 {
+    color: #FBFBEC;
+    padding: 0px;
+    padding: 20px;
+}
+
+nav a {
+    color: #fafad4;
+    text-decoration: none ;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+
+}
+
+nav a:hover {
+    color: #ffff00;
+    transition: transform 1 ease;
+}
