@@ -14,6 +14,11 @@ header h1 {
     padding: 0px;
 }
 
+header p {
+    color: #ffffff;
+    
+}
+
 main {
     text-align: center;
     padding: 40px 20px;
