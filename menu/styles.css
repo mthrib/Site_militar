@@ -40,8 +40,10 @@ aside {
     height: 100%;
 }
 
+
 aside a {
     display: block;
+    padding-top: 20px;
     padding: 10px 0;
     color: #FBFBEC;
     text-decoration: none;
