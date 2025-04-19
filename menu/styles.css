@@ -64,6 +64,15 @@ aside a:hover {
     border-radius: 20px;
 }
 
+.ab a:hover {
+    color: rgb(245, 216, 179);
+    
+}
+
+
+.ab nav {
+    color: #808080;
+}
 main {
     margin-left: 150px;
     margin-top: 50px;
